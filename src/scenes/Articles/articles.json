@@ -1,0 +1,11 @@
+{
+    "technical": [{
+        "id": 1,
+        "title": "Why you should start using commitizen 🚀",
+        "subtitle": "Closing tags manually probably drives you crazy, right?",
+        "readingTime": "3 min",
+        "publishDate": "19/05/2020",
+        "source": "medium",
+        "chips": ["Commitizen", "Automatic changelog", "Standard version"]
+    }]
+}
